@@ -1,0 +1,26 @@
+{
+    "name": "Simon Jodet's Resume",
+    "version": "2.0.0",
+    "authors": [
+        "Simon Jodet <simon@jodet.com>"
+    ],
+    "description": "Simon Jodet's Resume",
+    "main": "resume.html",
+    "keywords": [
+        "simon",
+        "jodet",
+        "resume"
+    ],
+    "license": "MIT",
+    "homepage": "http://simon.jodet.com",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "~3.3.5"
+    }
+}
