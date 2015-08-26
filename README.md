@@ -9,4 +9,4 @@ To build it, you should:
 * Run `npm install` and `bower install`.
 * Run `grunt` (Please check Gruntfile.js to check what are the available tasks).
 
-Copyright (c) 2015 Simon Jodet unde MIT license.
+Copyright (c) 2015 Simon Jodet under MIT license.
