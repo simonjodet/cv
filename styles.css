@@ -1377,3 +1377,23 @@ hr {
 body {
   padding: 5px;
 }
+@media print {
+  body {
+    padding: 0.5cm;
+  }
+  h1,
+  h2,
+  h3 {
+    margin-top: 6px;
+    margin-bottom: 2px;
+  }
+  h1 {
+    font-size: 26px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+}
