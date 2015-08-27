@@ -23,6 +23,7 @@ Bordeaux, France
 
   * Maintain the legacy jQuery-based web UI
   * Create a new web UI on more modern technologies such as AngularJS and D3.js. This UI displays statistics, charts, maps and allows to create audience segments with drag-and-drop
+  * Work the API (J2EE/Glassfish/PostgreSQL) used by the web UIs
   * Setup automation and deployment tools based on yeoman, npm and Grunt
 
 ### Senior Domain Architect, F-Secure (Security, Online backup) – 2011-2012

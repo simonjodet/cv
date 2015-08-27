@@ -23,6 +23,7 @@ Bordeaux, France
 
   * Maintenir l'interface web existante basée sur jQuery
   * Créer une nouvelle interface web basée sur des technologies plus modernes (AngularJS, D3.js). Cette interface affiche des statistiques, des graphiques et permet de créer des segments d'audience par glisser-déposer
+  * Travailler sur l'API (J2EE/Glassfish/PostgreSQL) utilisée par les interfaces
   * Mettre en place l'automatisation de déploiement, de packaging et de tests avec yeoman, npm and Grunt
 
 ### Senior Domain Architect, F-Secure (Sécurité, Sauvegarde en ligne) – 2011-2012
