@@ -8,8 +8,8 @@ module.exports = function(grunt) {
                 cssmin: true
             },
             dist: {
-                src: 'resume.html',
-                dest: 'dist/resume.html'
+                src: ['resume.html', 'resume_fr.html'],
+                dest: 'dist/'
             }
         },
         less: {
@@ -40,7 +40,7 @@ module.exports = function(grunt) {
                 files: [
                     {
                         expand: true,
-                        src: 'resume.md',
+                        src: 'resume*.md',
                         dest: '',
                         ext: '.html'
                     }
