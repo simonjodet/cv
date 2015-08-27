@@ -22,7 +22,7 @@ Bordeaux, France
 **Assignment:** Maintain and develop the web interfaces of the company
 
   * Maintain the legacy jQuery-based web UI
-  * Create a new web UI on more modern technologies such as AngularJS and D3.js. This UI displays statistics, charts, maps and allows to create audience segments through a drag-and-drop UI
+  * Create a new web UI on more modern technologies such as AngularJS and D3.js. This UI displays statistics, charts, maps and allows to create audience segments with drag-and-drop
   * Setup automation and deployment tools based on yeoman, npm and Grunt
 
 ### Senior Domain Architect, F-Secure (Security, Online backup) – 2011-2012
