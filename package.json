@@ -1,23 +1,27 @@
 {
-    "name": "simon_jodet_resume",
-    "version": "0.0.0",
-    "description": "Simon Jodet's resume",
-    "main": "resume.html",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "simon",
-        "jodet",
-        "resume"
-    ],
-    "author": "Simon Jodet <simon@jodet.com>",
-    "license": "MIT",
-    "devDependencies": {
-        "grunt": "^0.4.5",
-        "grunt-contrib-less": "latest",
-        "grunt-contrib-watch": "latest",
-        "grunt-inline": "^0.3.6",
-        "grunt-markdown": "^0.7.0"
-    }
+  "name": "simon_jodet_resume",
+  "version": "0.0.0",
+  "description": "Simon Jodet's resume",
+  "main": "resume.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonjodet/cv.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simon",
+    "jodet",
+    "resume"
+  ],
+  "author": "Simon Jodet <simon@jodet.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-inline": "^0.3.6",
+    "grunt-markdown": "^0.7.0"
+  }
 }
