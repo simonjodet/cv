@@ -25,6 +25,7 @@ Bordeaux, France
   * Créer une nouvelle interface web basée sur des technologies plus modernes (AngularJS, D3.js). Cette interface affiche des statistiques, des graphiques et permet de créer des segments d'audience par glisser-déposer
   * Travailler sur l'API (J2EE/Glassfish/PostgreSQL) utilisée par les interfaces
   * Mettre en place l'automatisation de déploiement, de packaging et de tests avec yeoman, npm and Grunt
+  * Créer et maintenir une image de l'environnement de développement sur Vagrant en utilsant Packer
 
 ### Senior Domain Architect, F-Secure (Sécurité, Sauvegarde en ligne) – 2011-2012
 **Mission :** Coordonner le projet de migration du produit de sauvegarde en ligne vers un nouveau produit

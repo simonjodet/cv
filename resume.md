@@ -25,6 +25,7 @@ Bordeaux, France
   * Create a new web UI on more modern technologies such as AngularJS and D3.js. This UI displays statistics, charts, maps and allows to create audience segments with drag-and-drop
   * Work the API (J2EE/Glassfish/PostgreSQL) used by the web UIs
   * Setup automation and deployment tools based on yeoman, npm and Grunt
+  * Setup development environment images for Vagrant with Packer
 
 ### Senior Domain Architect, F-Secure (Security, Online backup) – 2011-2012
 **Assignment:** Coordinate the migration project of the online backup product to a new one
