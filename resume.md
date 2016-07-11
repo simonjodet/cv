@@ -6,19 +6,29 @@ Bordeaux, France
 
 ## Technical skills
   * JavaScript (expert) / AngularJS (expert) / jQuery (average) / NodeJS (average)
-  * PHP (expert), Java (average)
+  * AWS S3, BeanStalk (average)
+  * PHP (expert), Java (average), .Net (VB and C#, beginner)
   * XHTML (expert) / HTML5 (basics) / CSS (average)
-  * MVC frameworks. Owner/maintainer of an in-house PHP5 MVC framework. Experience with [CakePHP](http://cakephp.org/)</a> and [Silex](http://silex.sensiolabs.org/)
+  * MVC frameworks. Owner/maintainer of an in-house PHP5 MVC framework.
   * Content Management Systems: Subversion, Git
   * Packaging and automation systems: Bower, NPM, Maven, Composer, Grunt
   * Various proprietary and public (Twitter, Facebook, Amazon S3), RESTful or SOAP, HTTP-based APIs
   * High availability and high performance web infrastructures with knowledge of Apache 2 and Nginx (server and reverse-proxy setups)
-  * Experience with various databases systems (RDBMS and No-SQL): MySQL, SQLite, PostgreSQL, CouchDB
+  * Cloud-based API application setup (NodeJS on AWS)
+  * Experience with various databases systems (RDBMS and No-SQL): MySQL, SQLite, PostgreSQL, MongoDB
   * Adobe Photoshop: average knowledge for photography work and web integration
   * Expert on Mac OS, Windows and Linux (Ubuntu and Debian-based distributions)
 
 ## Experience
-### Senior Software Engineer, Ezakus (Ad targeting) – Since 2013
+### Senior Software Engineer, AT Internet (Web Analytics) – Since November 2015
+**Assignment:** Maintain and develop the web interfaces of the company
+
+ * Maintain the legacy web UI based on AngularJS and custom JS framework
+ * Port parts of .net API to NodeJS and migrate it to AWS
+ * Work with D3.js on data visualization
+ * Train teams on Git, Bower, unit testing and good practices (code linting, etc.)
+
+### Senior Software Engineer, Ezakus (Ad targeting) – 2013-2015
 **Assignment:** Maintain and develop the web interfaces of the company
 
   * Maintain the legacy jQuery-based web UI
@@ -33,11 +43,10 @@ Bordeaux, France
   * Managing the technical aspects of the project (architecture) and participate in the Project Steering Group meetings
   * Work using the Agile/Scrum methodology and help creating the project’s backlog
   * Define the technical dependencies between all the components of the solution and choose the best performing and most secured solution
-  
+
 **Assignment:** Coaching
 
   * Train developers and quality engineers to the use of Git
-  * Help define the best way to use Git in an Agile development process
   * Introduce the teams to the best practices (« DRY, KISS, YAGNI »)
 
 ### Domain Architect, Web, F-Secure (Security, Online backup) – 2009-2011
@@ -46,12 +55,11 @@ Bordeaux, France
 
   * Define the architecture of the web portal, based on the ExtJS framework, communicating through HTTP APIs
   * Put in place the development process of the product between 3 teams, two of which are foreign subcontractors
-  * Take part in the development of the product, mainly on the server side component
 
 **Assignment:** Define the REST API of the new online file storage backend
 
   * Working with several architects, write the REST API specifications
-  
+
 **Assignment:** Consulting on integration projects for clients such as Orange or AT&amp;T
 
   * Work with the project manager to help integrate the products into the clients’ ecosystems
@@ -60,8 +68,7 @@ Bordeaux, France
 
 **Assignment:** Develop the standard web interface for the integration teams
 
-  * Manage alone the solution’s web portal development with the help of foreign subcontractors, validate the deliveries
-  * Maintain the in-house MVC framework
+  * Manage the solution’s web portal development with the help of foreign subcontractors, validate the deliveries and maintain the in-house MVC framework
 
 ### Junior web developer, Faculté des Sciences Bordeaux I – 2003-2005
 **Assignment:** Integrate college courses to put them online
