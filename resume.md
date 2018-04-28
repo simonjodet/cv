@@ -1,11 +1,11 @@
 # Simon Jodet
-**Developer and software architect** - 35 years old  
+**Developer and software architect** - 37 years old  
 Bordeaux, France  
 [simon@jodet.com](mailto:simon@jodet.com) — +33 659 089 259
 
 
 ## Technical skills
-  * JavaScript (expert) / AngularJS (expert) / jQuery (average) / NodeJS (average)
+  * JavaScript (expert) / AngularJS (expert) / VueJS (average) / jQuery (average) / NodeJS (average)
   * AWS S3, BeanStalk (average)
   * PHP (expert), Java (average), .Net (VB and C#, beginner)
   * XHTML (expert) / HTML5 (basics) / CSS (average)
@@ -20,7 +20,13 @@ Bordeaux, France
   * Expert on Mac OS, Windows and Linux (Ubuntu and Debian-based distributions)
 
 ## Experience
-### Senior Software Engineer, AT Internet (Web Analytics) – Since November 2015
+### Senior Software Engineer, Stoic (Next generation spreadsheet) – Since January 2017
+**Assignment:** Maintain and develop the web interface of the company
+
+  * Work on the AngularJS-based and Vue.JS web UIs
+  * Implement data export to XLSX format
+
+### Senior Software Engineer, AT Internet (Web Analytics) – 2015-2016
 **Assignment:** Maintain and develop the web interfaces of the company
 
  * Maintain the legacy web UI based on AngularJS and custom JS framework

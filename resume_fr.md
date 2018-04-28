@@ -18,7 +18,22 @@ Bordeaux, France
   * Expert sur Apple Mac OS, MS Windows and Linux (Distributions Ubuntu et Debian)
 
 ## Parcours professionnel
-### Senior Software Engineer, Ezakus (Ad targeting) – Since 2013
+### Senior Software Engineer, Stoic (Big data management) – Since January 2017
+**Assignment:** Maintenir et développer l'interface web
+
+  * Maintenir et développer l'interface web existante basée sur AngularJS
+  * Implémenter une solution d'export de données vers le format XLSX
+  * Améliorer les pratiques et méthodes de développement
+
+### Senior Software Engineer, AT Internet (Web Analytics) – 2015-2016
+**Assignment:** Maintenir et développer les interfaces web
+
+ * Maintenir et développer l'interface web existante basée sur AngularJS et un framework maison
+ * Portage d'une partie de l'API .Net en NodeJS et la déployer sur AWS
+ * Travailler sur la visualisation de données avec D3.JS
+ * Former des équipes sur Git, Bower, les tests unitaires et les bonnes pratiques (lint, etc.)
+
+### Senior Software Engineer, Ezakus (Ad targeting) – 2013-2015
 **Mission :** Maintenir et développer les interfaces web
 
   * Maintenir l'interface web existante basée sur jQuery
