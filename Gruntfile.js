@@ -59,5 +59,6 @@ module.exports = function(grunt) {
 
     // Default task(s).
     grunt.registerTask('default', ['less', 'markdown', 'inline', 'watch']);
+    grunt.registerTask('build', ['less', 'markdown', 'inline']);
 
 };
