@@ -1,32 +1,38 @@
 # Simon Jodet
-**Architecte en logiciel et développeur** - 35 years old  
+**Architecte en logiciel et développeur** - 38 ans  
 Bordeaux, France  
 [simon@jodet.com](mailto:simon@jodet.com) — 06 59 08 92 59
 
 
 ## Compétences techniques
-  * JavaScript (expert) / AngularJS (expert) / jQuery (moyenne) / NodeJS (moyenne)
-  * PHP (expert), Java (moyenne)
-  * XHTML (expert) / HTML5 (moyenne) / CSS (moyenne)
-  * Frameworks MVC: J'ai maintenu le framework MVC "maison" de Steek. Expérience avec CakePHP et Silex
-  * Systèmes de gestion de code : Subversion, Git
-  * Automatisation et packaging: Bower, NPM, Maven, Composer, Grunt
+  * JavaScript, ES 5 & 6 (expert) / VueJS 2.x (expert) / NodeJS (expert) / AngularJS 1.x (expert)
+  * CSS, LESS, SCSS (expert)
+  * Gestion de version: Git (expert)
+  * Services AWS (moyenne)
+  * PHP (expert), Java (moyenne), .Net (VB and C#, débutant)
+  * Packaging and automatisation: Webpack, Bower, NPM, Maven, Composer, Grunt
+  * Tests: mocha (expert), karma (expert)
   * Plusieurs API publiques (Twitter, Facebook, Amazon S3) et privées, RESTful ou SOAP
-  * Infrastructures web haute performance et scalable. Bonne connaissance de Apache 2 et Nginx (en mode serveur et reverse-proxy)
+  * Infrastructures web haute performance et haute disponibilité. Bonne connaissance de Apache 2 et Nginx (en mode serveur et reverse-proxy)
   * Expérience avec plusieurs bases de données (relationnelles ou No-SQL) : MySQL, SQLite, PostgreSQL, CouchDB
   * Adobe Photoshop : connaissances en retouche photo et intégration web
   * Expert sur Apple Mac OS, MS Windows and Linux (Distributions Ubuntu et Debian)
 
 ## Parcours professionnel
 ### Senior Software Engineer, Stoic (Big data management) – Since January 2017
-**Assignment:** Maintenir et développer l'interface web
+**Mission:** Maintenir et développer l'interface web du produit en se concentrant sur la qualité, la performance et la disponibilité
 
-  * Maintenir et développer l'interface web existante basée sur AngularJS
-  * Implémenter une solution d'export de données vers le format XLSX
-  * Améliorer les pratiques et méthodes de développement
+  * Travailler principalement sur la réécriture complète de l'interface et des services en utilisant ES6, VueJS 2 et Vuetify
+    * Travailler sur la librairie de composants customs (boites de dialogue, barres informatives, pickers, etc.)
+    * Réécrire l'éditeur de graphiques (Configurateur du visualisation de données utilisant Vega-lite)
+    * Travailler sur l'éditeur de table, en particulier les graphiques de colonnes
+    * Travailler sur les services soutenant l'éditeur de graphiques
+    * Tout le code est validé par un mix de tests end-to-end (karma) et unitaires (mocha)
+  * Travailler sur l'ancienne interface utilisant AngularJS 1.x
+  * Implémenter l'export vers le format de fichier XLSX
 
 ### Senior Software Engineer, AT Internet (Web Analytics) – 2015-2016
-**Assignment:** Maintenir et développer les interfaces web
+**Mission:** Maintenir et développer les interfaces web
 
  * Maintenir et développer l'interface web existante basée sur AngularJS et un framework maison
  * Portage d'une partie de l'API .Net en NodeJS et la déployer sur AWS
@@ -91,7 +97,7 @@ Brevet de Technicien Supérieur COncepteur DEveloppeur Multimédia. Bac +2 - Dip
   * Formation TDD par [J. B. Rainsberger](http://en.wikipedia.org/wiki/J._B._Rainsberger)
   * Formation ExtJS par [Jay Garcia](http://moduscreate.com/about/)
 
-**Languages:** French (native), English (fluently written and spoken)
+**Langues:** Français (native), Anglais (couremment parlé et écrit)
 
 ## Autres informations
   * Permis B, véhicule personnel

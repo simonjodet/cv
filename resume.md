@@ -1,17 +1,17 @@
 # Simon Jodet
-**Developer and software architect** - 37 years old  
+**Developer and software architect** - 38 years old  
 Bordeaux, France  
 [simon@jodet.com](mailto:simon@jodet.com) — +33 659 089 259
 
 
 ## Technical skills
-  * JavaScript (expert) / AngularJS (expert) / VueJS (average) / jQuery (average) / NodeJS (average)
-  * AWS S3, BeanStalk (average)
+  * JavaScript, ES 5 & 6 (expert) / VueJS 2.x (expert) / NodeJS (expert) / AngularJS 1.x (expert)
+  * CSS, LESS, SCSS (expert)
+  * Content Management Systems: Git (expert)
+  * AWS services (average)
   * PHP (expert), Java (average), .Net (VB and C#, beginner)
-  * XHTML (expert) / HTML5 (basics) / CSS (average)
-  * MVC frameworks. Owner/maintainer of an in-house PHP5 MVC framework.
-  * Content Management Systems: Subversion, Git
-  * Packaging and automation systems: Bower, NPM, Maven, Composer, Grunt
+  * Packaging and automation systems: Webpack, Bower, NPM, Maven, Composer, Grunt
+  * Testing: mocha (expert), karma (expert)
   * Various proprietary and public (Twitter, Facebook, Amazon S3), RESTful or SOAP, HTTP-based APIs
   * High availability and high performance web infrastructures with knowledge of Apache 2 and Nginx (server and reverse-proxy setups)
   * Cloud-based API application setup (NodeJS on AWS)
@@ -21,9 +21,15 @@ Bordeaux, France
 
 ## Experience
 ### Senior Software Engineer, Stoic (Next generation spreadsheet) – Since January 2017
-**Assignment:** Maintain and develop the web interface of the company
+**Assignment:** Maintain and develop the web interface of the product with a priority on quality, performance and scalability
 
-  * Work on the AngularJS-based and Vue.JS web UIs
+  * Mainly worked on the complete rewrite of the UI and services using ES6, VueJS 2 and Vuetify
+    * Worked on the custom components library (dialogs, information bars, pickers, etc.)
+    * Rewrote the chart editor (data visualization configurator using Vega-Lite)
+    * Worked the table editor, specifically the column charts
+    * Worked on backend services for the chart editor
+    * All code was validated using a mix of end-to-end (karma) and unit testing (mocha)
+  * Work on the legacy web UI using AngularJS 1.x
   * Implement data export to XLSX format
 
 ### Senior Software Engineer, AT Internet (Web Analytics) – 2015-2016
