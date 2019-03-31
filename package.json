@@ -18,9 +18,9 @@
   "author": "Simon Jodet <simon@jodet.com>",
   "license": "MIT",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-less": "latest",
-    "grunt-contrib-watch": "latest",
+    "grunt": "^1.0.4",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
     "grunt-inline": "^0.3.6",
     "grunt-markdown": "^0.7.0"
   }
