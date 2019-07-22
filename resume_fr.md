@@ -1,7 +1,7 @@
 # Simon Jodet
 **Architecte en logiciel et développeur** - 38 ans  
 Bordeaux, France  
-[simon@jodet.com](mailto:simon@jodet.com) — 06 59 08 92 59
+simon@jodet.com — 06 59 08 92 59
 
 
 ## Compétences techniques
@@ -19,7 +19,7 @@ Bordeaux, France
   * Expert sur Apple Mac OS, MS Windows and Linux (Distributions Ubuntu et Debian)
 
 ## Parcours professionnel
-### Senior Software Engineer, Stoic (Big data management) – Since January 2017
+### Senior Software Engineer, Stoic (Big data management) – 2017-Juin 2019
 **Mission:** Maintenir et développer l'interface web du produit en se concentrant sur la qualité, la performance et la disponibilité
 
   * Travailler principalement sur la réécriture complète de l'interface et des services en utilisant ES6, VueJS 2 et Vuetify

@@ -20,7 +20,7 @@ Bordeaux, France
   * Expert on Mac OS, Windows and Linux (Ubuntu and Debian-based distributions)
 
 ## Experience
-### Senior Software Engineer, Stoic (Next generation spreadsheet) – Since January 2017
+### Senior Software Engineer, Stoic (Next generation spreadsheet) – 2017-June 2019
 **Assignment:** Maintain and develop the web interface of the product with a priority on quality, performance and scalability
 
   * Mainly worked on the complete rewrite of the UI and services using ES6, VueJS 2 and Vuetify
