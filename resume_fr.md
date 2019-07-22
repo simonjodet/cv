@@ -1,7 +1,7 @@
 # Simon Jodet
 **Architecte en logiciel et développeur** - 38 ans  
 Bordeaux, France  
-simon@jodet.com — 06 59 08 92 59
+[simon@jodet.com](mailto:simon@jodet.com) — 06 59 08 92 59
 
 
 ## Compétences techniques
