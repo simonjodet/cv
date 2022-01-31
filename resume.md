@@ -5,10 +5,11 @@ Bordeaux, France
 
 
 ## Technical skills
-  * JavaScript, ES 5 & 6 (expert) / VueJS 2.x (expert) / NodeJS (expert) / AngularJS 1.x (expert)
+  * JavaScript, ES 5 & 6 (expert) / VueJS 2.x (expert) / NodeJS (expert) / AngularJS 1.x (expert) / Angular (average)
   * CSS, LESS, SCSS (expert)
+  * Ionic framework (average)
   * Content Management Systems: Git (expert)
-  * AWS services (average)
+  * AWS services (average), Docker (expert)
   * PHP (expert), Java (average), .Net (VB and C#, beginner)
   * Packaging and automation systems: Webpack, Bower, NPM, Maven, Composer, Grunt
   * Testing: mocha (expert), karma (expert)
@@ -20,6 +21,15 @@ Bordeaux, France
   * Expert on Mac OS, Windows and Linux (Ubuntu and Debian-based distributions)
 
 ## Experience
+### Senior Software Engineer, Siim.io (Le transport connecté) – Since September 2019
+**Mission:** Develop several web interfaces (management and widgets)
+
+  * Create several UIs for transport companies and partners such as order manager or widgets to be included in partners' websites.
+    * Create a dozen of UIs
+    * Create a mobile app (Android and iOS) using the ionic framework.
+  * Work on a long term project for SNCF (French national railroad company)
+  * Put in place the infrastructure for this project (Docker, Gitlab, Portainer, Nginx Proxy Manager)
+
 ### Senior Software Engineer, Stoic (Next generation spreadsheet) – 2017-June 2019
 **Assignment:** Maintain and develop the web interface of the product with a priority on quality, performance and scalability
 

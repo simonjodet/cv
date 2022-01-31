@@ -1,14 +1,15 @@
 # Simon Jodet
-**Architecte en logiciel et développeur** - 38 ans  
+**Architecte en logiciel et développeur** - 41 ans  
 Bordeaux, France  
 [simon@jodet.com](mailto:simon@jodet.com) — 06 59 08 92 59
 
 
 ## Compétences techniques
-  * JavaScript, ES 5 & 6 (expert) / VueJS 2.x (expert) / NodeJS (expert) / AngularJS 1.x (expert)
+  * JavaScript, ES 5 & 6 (expert) / VueJS 2.x (expert) / NodeJS (expert) / AngularJS 1.x (expert) / Angular (moyenne)
   * CSS, LESS, SCSS (expert)
+  * Framework Ionic (moyenne)
   * Gestion de version: Git (expert)
-  * Services AWS (moyenne)
+  * Services AWS (moyenne), Docker (expert)
   * PHP (expert), Java (moyenne), .Net (VB and C#, débutant)
   * Packaging and automatisation: Webpack, Bower, NPM, Maven, Composer, Grunt
   * Tests: mocha (expert), karma (expert)
@@ -19,6 +20,15 @@ Bordeaux, France
   * Expert sur Apple Mac OS, MS Windows and Linux (Distributions Ubuntu et Debian)
 
 ## Parcours professionnel
+### Senior Software Engineer, Siim.io (Le transport connecté) – Depuis Septembre 2019
+**Mission:** Développer les différentes interfaces web (management et widgets)
+
+  * Créer les différents outils pour les services de transports tels que la gestion des commandes mais aussi des widgets à intégrer dans les sites clients.
+    * Création d'une douzaine d'interfaces basées sur VueJS.
+    * Création d'une application mobile Android et iOS avec le framework ionic.
+  * Travailler sur un projet à long terme pour la SNCF
+  * Mettre en place l'infrastructure de dévelopement pour le projet (Docker, Gitlab, Portainer, Nginx Proxy Manager)
+
 ### Senior Software Engineer, Stoic (Big data management) – 2017-Juin 2019
 **Mission:** Maintenir et développer l'interface web du produit en se concentrant sur la qualité, la performance et la disponibilité
 
