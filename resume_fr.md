@@ -11,7 +11,7 @@ Bordeaux, France
   * Gestion de version: Git (expert)
   * Services AWS (moyenne), Docker (expert)
   * PHP (expert), Java (moyenne), .Net (VB and C#, débutant)
-  * Packaging and automatisation: Webpack, Bower, NPM, Maven, Composer, Grunt
+  * Packaging and automatisation: Webpack, NPM, Yarn, Maven, Composer
   * Tests: mocha (expert), karma (expert)
   * Plusieurs API publiques (Twitter, Facebook, Amazon S3) et privées, RESTful ou SOAP
   * Infrastructures web haute performance et haute disponibilité. Bonne connaissance de Apache 2 et Nginx (en mode serveur et reverse-proxy)
@@ -20,14 +20,21 @@ Bordeaux, France
   * Expert sur Apple Mac OS, MS Windows and Linux (Distributions Ubuntu et Debian)
 
 ## Parcours professionnel
-### Senior Software Engineer, Siim.io (Le transport connecté) – Depuis Septembre 2019
+### Senior Software Engineer, Octek (Changement de nom de Siim.io) – Depuis Décembre 2023
+**Mission:** Développer l'interface web du projet PULSAR pour la SNCF  
+**Mission:** Designer et administrer l'infrastructure de développement d'Octek 
+
+  * Mise en place et développement d'un projet Angular complexe avec une librairie Angular déportée
+  * Mise en place des stratégies de tests unitaires et e2e 
+  * Mettre en place l'infrastructure de dévelopement pour le projet (Docker, Gitlab, Portainer, Nginx Proxy Manager)
+  * Dockerisation des composants dans la chaîne de CI (kaniko, docker-compose)
+
+### Senior Software Engineer, Siim.io (Le transport connecté) – Septembre 2019-Décembre 2023
 **Mission:** Développer les différentes interfaces web (management et widgets)
 
   * Créer les différents outils pour les services de transports tels que la gestion des commandes mais aussi des widgets à intégrer dans les sites clients.
     * Création d'une douzaine d'interfaces basées sur VueJS.
     * Création d'une application mobile Android et iOS avec le framework ionic.
-  * Travailler sur un projet à long terme pour la SNCF
-  * Mettre en place l'infrastructure de dévelopement pour le projet (Docker, Gitlab, Portainer, Nginx Proxy Manager)
 
 ### Senior Software Engineer, Stoic (Big data management) – 2017-Juin 2019
 **Mission:** Maintenir et développer l'interface web du produit en se concentrant sur la qualité, la performance et la disponibilité
