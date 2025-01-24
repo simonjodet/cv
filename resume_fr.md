@@ -22,7 +22,8 @@ Bordeaux, France
 ## Parcours professionnel
 ### Senior Software Engineer, Octek (Changement de nom de Siim.io) – Depuis Décembre 2023
 **Mission:** Développer l'interface web du projet PULSAR pour la SNCF  
-**Mission:** Designer et administrer l'infrastructure de développement d'Octek 
+**Mission:** Designer et administrer l'infrastructure de développement d'Octek  
+**Mission:** Développer l'interface web du projet PEGASE et supervision technique du projet
 
   * Mise en place et développement d'un projet Angular complexe avec une librairie Angular déportée
   * Mise en place des stratégies de tests unitaires et e2e 
